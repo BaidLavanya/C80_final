@@ -1,0 +1,20 @@
+#P1, #P2 {
+    width: 49%;
+}
+
+body {
+    text-align: center;
+    background-color: #e63946;
+}
+
+#P1 {
+    float: left;
+}
+
+#P2 {
+    float: right;
+}
+
+h1{
+    color: #fdffb6;
+}
